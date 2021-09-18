@@ -1,0 +1,29 @@
+I received the following email and I'm not sure what to do:"You are receiving this email because you are an admin of the bryanfagan.com Hiver account.At this time, Hiver is unable to connect to Human Resources Shared mailbox, and your emails have stopped syncing with the participants.Please contact our support team immediately for further assistance." Please let me know how I can get this resolved.
+The above email is an automated email that gets triggered whenever an Hiver shared mailbox losses its authentication with Hiver. The authentication can be lost because of a password change for the Gmail account of "Human Resources Inbox". That is the reason you and all the other admins of the Hiver account received this email.
+Click on the Hiver icon
+Click on the Admin panel
+Click on the 2nd icon (Shared mailbox)
+Click on the "Authentication failed" button on the HR shared mailbox and enter the new password.
+I was wondering if there is a way to mass close all the current emails in our inbox: SD Info.
+You can use Hiver's Bulk Action feature to close 50 emails in one go. Here is how you can access this feature - Click here! Also, I can ask my engineering team to perform bulk closure of emails from the backend, if the volume of emails that needs to be closed is high.
+Hi, I need help joining flexport.com Hiver account.
+Looks like you're not added as a user of Hiver. Please contact your Hiver Admin who will add you to Hiver.
+if we remove an email from the shared mailbox, can users of the shared inbox still access it?
+Once you remove or delete an email from the Shared Mailbox, the email will end up in your Trash in Gmail and for the rest of the users of the Shared Mailbox, the email will get archived (All Mail section).
+Hi how do I sort by email address and tag multiple emails at once ?
+can you walk me through how to set up an out of office message on my shared inboxes?
+You will find all the steps in our help article here.  https://help.hiverhq.com/productivity/set-up-an-auto-responder
+Is it possible to get a report of what is assigned to me daily?
+Yes, this can be achieved from the analytics report by selecting the "Schedule export".
+Hi there! Can you have more than one shared mailbox in Hiver?
+Yes, you can have unlimited Shared mailboxes in Hiver.
+How does that work with unassigned emails - do you have separate unassigned folders for each mailbox
+You will be charged based on the number of users/members you add to the account.
+Also does each mailbox have its own tags etc?
+Yes, tags created in one of the mailbox will be available in that specific mailbox only.
+Have you heard of Hiver users having issues with it loading really slowly as we have started to have that problem sometimes.
+There is an ongoing issue with Google at the moment : https://status.cloud.google.com/
+But, that has not impacted Hivers in any way.
+Could you please check with your internet speed as that could be causing the issue with loading.If the internet speed is fine, then clearing cookies & cache will fix it.
+Sorry, but I do not see the analytics option
+Only the admins can access the Analytics feature in the Hiver account.
